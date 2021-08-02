@@ -1,4 +1,4 @@
-# Visual odometry project (the purpose is for fun)
+# Visual odometry project (the purpose is a Code Sample )
 python implementation of visual odometry. Lukas kande tracker has been used with FAST features. The design allows to add smothly new features and descriptors.  
 
 # Usage
